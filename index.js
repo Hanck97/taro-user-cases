@@ -586,7 +586,7 @@ const userCases = {
     },
     {
       name: '菲住酒店联盟',
-      url: 'https://img.alicdn.com/tfs/TB1zPk4dP39YK4jSZPcXXXrUFXa-256-256.png'
+      url: 'https://img.alicdn.com/tfs/TB1w_oFMbr1gK0jSZR0XXbP8XXa-430-430.jpg'
     }
   ],
   H5: [
